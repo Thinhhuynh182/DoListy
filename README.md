@@ -12,7 +12,7 @@
     <ul>
       <li><a href="https://github.com/DTTri">Dương Thuận Trí (Leader)</a></li>
       <li><a href="https://github.com/VinhThinh0804">Nguyễn Trịnh Vĩnh Thịnh</a></li>
-      <li><a href="https://github.com/ThInhHuYnh04">Huỳnh Hữu Thịnh</a></li>
+      <li><a href="https://github.com/Thinhhuynh182">Huỳnh Hữu Thịnh</a></li>
       <li><a href="https://github.com/DPhngNam">Đoàn Phương Nam</a></li>
     </ul>
     <p>Guided by the expertise of our mentor: Mr. Huỳnh Tuấn Anh</p>
